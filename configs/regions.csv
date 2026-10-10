@@ -1,0 +1,34 @@
+dcode,department,region
+08,ATLANTICO,Caribe
+13,BOLIVAR,Caribe
+20,CESAR,Caribe
+23,CORDOBA,Caribe
+44,LA GUAJIRA,Caribe
+47,MAGDALENA,Caribe
+70,SUCRE,Caribe
+05,ANTIOQUIA,Andina
+11,BOGOTA D.C.,Andina
+15,BOYACA,Andina
+17,CALDAS,Andina
+25,CUNDINAMARCA,Andina
+41,HUILA,Andina
+54,NORTE DE SANTANDER,Andina
+63,QUINDIO,Andina
+66,RISARALDA,Andina
+68,SANTANDER,Andina
+73,TOLIMA,Andina
+19,CAUCA,Pacifica
+27,CHOCO,Pacifica
+52,NARINO,Pacifica
+76,VALLE DEL CAUCA,Pacifica
+81,ARAUCA,Orinoquia
+85,CASANARE,Orinoquia
+50,META,Orinoquia
+99,VICHADA,Orinoquia
+91,AMAZONAS,Amazonia
+18,CAQUETA,Amazonia
+94,GUAINIA,Amazonia
+95,GUAVIARE,Amazonia
+86,PUTUMAYO,Amazonia
+97,VAUPES,Amazonia
+88,SAN ANDRES PROVIDENCIA Y SANTA CATALINA,Insular

@@ -1,0 +1,9 @@
+dcode,department,year,evidence,reference_years_for_shares
+41,HUILA,2024,"Spearman rank correlation of municipal totals with every other census year 0,19-0,23 (clean years >=0,96); department total consistent (ratio 0,99)","2023;2025"
+13,BOLIVAR,2025,"Rank correlation with other years 0,31-0,42 (clean years >=0,92); department total ratio 1,04","2024;2026"
+50,META,2025,"Rank correlation with other years -0,19 to -0,16 (clean years >=0,93); department total ratio 1,00","2024;2026"
+52,NARINO,2025,"Rank correlation with other years 0,62-0,69 (clean years >=0,95); department total ratio 1,08","2024;2026"
+76,VALLE DEL CAUCA,2025,"Rank correlation with other years 0,46-0,52 (clean years >=0,96); department total ratio 1,02","2024;2026"
+94,GUAINIA,2025,"Rank correlation with other years -0,33 (clean years >=0,84); department total ratio 1,03","2024;2026"
+95,GUAVIARE,2025,"Rank correlation with other years -0,60 (clean years 1,00); department total ratio 1,03","2024;2026"
+97,VAUPES,2025,"Rank correlation with other years -0,48 to -0,29 (clean years >=0,83); department total ratio 0,99","2024;2026"

@@ -1,0 +1,17 @@
+# Allowlist: only the data-analysis code, its configuration and the README are versioned.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/environment.yml
+!/configs/
+!/src/
+/src/*
+!/src/download/
+!/src/livestock/
+!/src/preprocessing/
+!/src/spatial/
+!/src/climate/
+!/src/statistics/
+__pycache__/
+*.pyc
